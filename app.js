@@ -5,10 +5,10 @@ let tentativas = 1;
 
 
 let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Jogo do numnero Secreto';
+titulo.innerHTML = 'Jogo do número Secreto';
 
 let paragrafo = document.querySelector('p');
-paragrafo.innerHTML = 'Escolha um numero entre 1 e 10';
+paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
 
 function exibirTextoNaTela(tag, texto){
